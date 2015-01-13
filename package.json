@@ -1,0 +1,24 @@
+{
+  "name": "node-no-captcha",
+  "version": "1.0.0",
+  "description": "Google no-captcha recaptcha middleware for express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/hadokee/node-no-captcha/node-no-captcha.git"
+  },
+  "keywords": [
+    "no-captcha",
+    "recaptcha",
+    "nodejs",
+    "google"
+  ],
+  "author": "Adriano Foschi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.10.8"
+  }
+}
