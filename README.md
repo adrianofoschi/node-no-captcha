@@ -1,6 +1,6 @@
 node-no-captcha
 ==================
-  Express middleware for User's response verification in [https://developers.google.com/recaptcha](Google no-captcha Recaptcha)
+  Express middleware for User's response verification in [Google no-captcha Recaptcha](https://developers.google.com/recaptcha)
   
 ## Example:
 
