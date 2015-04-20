@@ -3,7 +3,7 @@ var https = require('https');
 exports.verify = function(secret) {
 	
 	return function(req,res,next) {
-		var responseString = req.body['gRecaptchaResponse'];
+		var responseString = req.body['g-recaptcha-response'];
 
 		var options = {
 		  hostname: 'www.google.com',
